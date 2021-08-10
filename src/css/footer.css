@@ -1,0 +1,20 @@
+footer{
+    background-color: black;
+    color:white;
+    font-weight: bold;
+}
+.footer-link:hover {
+   font-size:120%;
+  
+    
+}
+
+.footer-link {
+    color: white;
+    text-decoration: none;
+    -webkit-transition: font-size .5s ease;
+  -moz-transition: font-size .5s ease;
+  -o-transition: font-size .5s ease;
+  transition: font-size .5s ease;
+   
+}
